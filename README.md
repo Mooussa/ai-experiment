@@ -6,4 +6,4 @@ Topics:
       - Speech
       - and more
       
- Explore the folders for more contenst
+ Explore the folders for more contents
